@@ -1,3 +1,5 @@
+dataset:https://www.kaggle.com/datasets/deepu1109/star-dataset
+
 #Problem
 I wanted to help people who wanted to figure out what type of star somethign is. This is the problem I tried to solve since I had a bunch of data about stars. I basically wanted to create a Machine Learning model but I did not know what type of Machine Learning model I should create or what I would be predicting with the model. Well, I had a lot of data so I decided that I would plot and create a bunch of graphs based off hte data and then determine what I wanted to do with it based on the patterns I see in the graphs. 
 
